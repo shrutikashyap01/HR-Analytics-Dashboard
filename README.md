@@ -49,3 +49,5 @@ Author
 
 Data Analytics Portfolio Project
 
+![HR Analytics Dashboard](dashboard-screenshot.png)
+
