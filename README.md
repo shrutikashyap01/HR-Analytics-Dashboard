@@ -39,15 +39,7 @@ Add your dashboard screenshot to this repository and link it here.
 Files
 
 - "HR_Analytics_Dashboard.pbix" — Power BI report file, if included.
-- "dashboard-screenshot.png" — Dashboard preview, if included.
-
-How to View
-
-Download the ".pbix" file if available and open it using Microsoft Power BI Desktop.
-
-Author
 
 Data Analytics Portfolio Project
 
-![HR Analytics Dashboard](dashboard-screenshot.png)
 
